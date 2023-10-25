@@ -1,11 +1,15 @@
 /*general*/
 body {
+    min-height: 100vh;
     background-color: #ffffff;
     display: flex;
     flex-direction: column;
 }
 h1 {
     color: black;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
 }
 
 
@@ -14,21 +18,40 @@ header {
     background-color: lightgrey;
     display: flex;
     width: 100%;
-    z-index: 10;
+    z-index: 99;
     align-items: baseline;
     position: fixed;
-    justify-content: space-between;
-}
-.menu {
-    position: absolute;
-    left: 0;
+    box-shadow: 0 2px black;
+    padding: 0 2rem;
+    
     
 }
+
+header a {
+    text-decoration: none;
+    color: black;
+}
+#menu {
+    font-size: 70;
+    list-style-type: none;
+    background-color: lightgrey;
+    letter-spacing: 4px;
+    margin: 0;
+    
+}
+#menu > li {
+    
+    
+}
+
 nav {
+    background-color: #ffffff;
     position: absolute;
     display: none;
-    left: 0;
     top: 100%;
+    width: 100%;
+    left: 0;
+    box-shadow: lightgrey;
 }
 #nav-menu:checked~nav {
     display: block;
@@ -36,10 +59,19 @@ nav {
 #nav-menu {
     display: none;
 }
+.nav-menu-label {
+    position: absolute;
+    font-size: 2rem;
+    margin-left: 65%;
+    bottom: 0;
+}
 /*Main*/
 main {
     color: red;
-    margin-top: 144.44px;
+    flex: 1 0 auto;
+    display: flex;
+    flex-direction: column;
+    margin-top: 150.88px;
 }
 /*Footer*/
 footer {
