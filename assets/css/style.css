@@ -12,10 +12,34 @@ h1 {
 /*Header*/
 header {
     background-color: lightgrey;
+    display: flex;
+    width: 100%;
+    z-index: 10;
+    align-items: baseline;
+    position: fixed;
+    justify-content: space-between;
+}
+.menu {
+    position: absolute;
+    left: 0;
+    
+}
+nav {
+    position: absolute;
+    display: none;
+    left: 0;
+    top: 100%;
+}
+#nav-menu:checked~nav {
+    display: block;
+}
+#nav-menu {
+    display: none;
 }
 /*Main*/
 main {
     color: red;
+    margin-top: 144.44px;
 }
 /*Footer*/
 footer {
