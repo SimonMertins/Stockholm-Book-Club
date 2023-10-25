@@ -1,11 +1,23 @@
+/*general*/
+body {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+}
+h1 {
+    color: black;
+}
+
+
+/*Header*/
 header {
-    background-color: blue;
+    background-color: lightgrey;
 }
-
+/*Main*/
 main {
-    background-color: red;
+    color: red;
 }
-
+/*Footer*/
 footer {
 
     background-color: grey;
