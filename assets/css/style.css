@@ -4,6 +4,7 @@ body {
     background-color: #ffffff;
     display: flex;
     flex-direction: column;
+    margin: 0;
 }
 h1 {
     color: black;
@@ -13,7 +14,7 @@ h1 {
 }
 
 
-/*Header*/
+/*Header (used Love Running for inspiration for the header)*/
 header {
     background-color: lightgrey;
     display: flex;
@@ -36,10 +37,11 @@ header a {
     list-style-type: none;
     background-color: lightgrey;
     letter-spacing: 4px;
-    margin: 0;
+    margin: 0%;
     
 }
 #menu > li {
+    margin-bottom: 1em;
     
     
 }
