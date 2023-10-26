@@ -142,8 +142,22 @@ background-color: lightgrey;
     color: black;
 }
 
-/**/
+/*media query for screens lagrer than 443px*/
+@media screen and (min-width: 442px) {
+    /*Main*/
+    
+    #copy-section {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        background-color: wheat;
+        align-items: center;
+        flex-grow: 1;
+    }
+ 
+    
 
+}
 
 /*media query for tablets(768px) and up*/
 @media screen and (min-width: 768px) {
