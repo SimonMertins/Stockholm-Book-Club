@@ -80,6 +80,13 @@ main {
     flex-direction: column;
     margin-top: 58.44px;
 }
+#hero {
+    width: 100%;
+    height: 500px;
+    background: url("/assets/images/pexels-pixabay-159711.jpg") no-repeat center/cover;
+
+
+}
 /*Footer*/
 /*Used Footer from Love Running*/
 footer {
@@ -118,7 +125,7 @@ background-color: lightgrey;
         
     }
     #menu > li {
-        padding-left: 4rem;
+        padding-left: 3rem;
         
     
     }
@@ -132,7 +139,7 @@ background-color: lightgrey;
         font-size: 150%;
 
     }
-    /*Main*/
+    /*Main 768px and up*/
 
     main {
     
