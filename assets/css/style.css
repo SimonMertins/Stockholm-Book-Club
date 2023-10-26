@@ -81,9 +81,19 @@ main {
 }
 /*Footer*/
 footer {
-
-    background-color: lightgrey;
+background-color: lightgrey;
 }
+#social-networks {
+    text-align: center;
+    padding: 0 20px;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+}
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: black;
 
 
 /*media query for tablets(768px) and up*/
@@ -126,8 +136,5 @@ footer {
     display: flex;
     flex-direction: column;
     margin-top: 87.16px;
-
     }
-
-
-}
+ }
