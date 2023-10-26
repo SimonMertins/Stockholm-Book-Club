@@ -121,8 +121,8 @@ main a {
     background-color: wheat;
     align-items: center;
 }
-#copy-section h2 {
-    display: flex;
+#copy-h2 {
+    padding-right: 5px;
 }
 /*Footer*/
 /*Used Footer from Love Running*/
@@ -141,6 +141,8 @@ background-color: lightgrey;
     padding: 5%;
     color: black;
 }
+
+/**/
 
 
 /*media query for tablets(768px) and up*/
@@ -185,4 +187,6 @@ background-color: lightgrey;
     flex-direction: column;
     margin-top: 87.16px;
     }
- }
+ 
+
+}
