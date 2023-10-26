@@ -52,13 +52,13 @@ header a {
 }
 
 nav {
-    background-color: #ffffff;
+    background-color: lightgrey;
     position: absolute;
     display: none;
     top: 100%;
     width: 100%;
     left: 0;
-    box-shadow: lightgrey;
+    box-shadow: 1px solid black;
 }
 #nav-menu:checked~nav {
     display: block;
@@ -70,7 +70,7 @@ nav {
     position: absolute;
     font-size: 2rem;
     margin-left: 65%;
-    bottom: 0;
+   
 }
 /*Main*/
 main {
@@ -82,7 +82,7 @@ main {
 }
 #hero {
     width: 100%;
-    height: 500px;
+    height: 400px;
     background: url("/assets/images/pexels-pixabay-159711.jpg") no-repeat center/cover;
 
 
