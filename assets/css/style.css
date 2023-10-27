@@ -128,13 +128,20 @@ main a {
 
 /*signup-page-main*/
 #signup {
+    background-image: url("/assets/images/pexels-andrew-neel-7041947.jpg");
+    background-size: cover;
+    background-position: 40%;
+    flex-grow: 1;
 
-        background: url("../assets/images/pexels-andrew-neel-7041947.jpg") no-repeat center center;
-        background-size: cover;
-        background-color: #f2f2f2; /* A background color as a fallback */
-        padding: 20px 10% 0 10%;
-        flex-grow: 1;
     
+}
+
+/*Book List Main*/
+#book-list-background {
+    background-image: url("/assets/images/pexels-messala-ciulla-942872.jpg");
+    background-size: cover;
+    background-position: 75%;
+    flex-grow: 1;
 }
 /*Footer*/
 /*Used Footer from Love Running*/
