@@ -120,9 +120,19 @@ main a {
     width: 100%;
     background-color: wheat;
     align-items: center;
+
 }
 #copy-h2 {
     padding-right: 5px;
+}
+
+/*signup-page-main*/
+main #signup {
+    background: url(../assets/images/pexels-andrew-neel-7041947.jpg);
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
 }
 /*Footer*/
 /*Used Footer from Love Running*/
@@ -154,8 +164,6 @@ background-color: lightgrey;
         align-items: center;
         flex-grow: 1;
     }
- 
-    
 
 }
 
