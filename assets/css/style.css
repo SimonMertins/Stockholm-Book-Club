@@ -143,6 +143,11 @@ main a {
     background-position: 75%;
     flex-grow: 1;
 }
+
+#book-list {
+    display: flex;
+    list-style-type: none;
+}
 /*Footer*/
 /*Used Footer from Love Running*/
 footer {
