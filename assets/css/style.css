@@ -145,12 +145,17 @@ main a {
 }
 #book-list-div {
 display: flex;
+padding-top: 25px;
+padding-bottom: 100px;
+
 
 }
 .box {
-flex: 5;
-display: inline-block;
-text-align: center;
+flex: 1;
+
+
+
+
 
 }
 #book-list1 {
@@ -236,6 +241,17 @@ background-color: lightgrey;
     flex-direction: column;
     margin-top: 87.16px;
     }
+    
+    #book-list-div {
+        padding-top: 40px;
+        padding-bottom: 0;
+        font-size: large;
+    }
  
-
+}
+/*media query for laptop(1024px) and up*/
+@media screen and (min-width: 1024px) {
+    #book-list1 {
+        margin-left: 210px;
+    }
 }
