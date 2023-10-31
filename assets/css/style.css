@@ -60,7 +60,6 @@ nav {
     top: 100%;
     width: 100%;
     left: 0;
-    box-shadow: 1px solid black;
 
 }
 #nav-menu:checked~nav {
@@ -142,7 +141,6 @@ main a {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: baseline;
     text-align: center;
     background-color: rgba( 200, 200, 200, 0.2);
     padding-top: 100px;
