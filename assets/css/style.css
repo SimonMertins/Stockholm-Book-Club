@@ -261,6 +261,6 @@ background-color: lightgrey;
 /*media query for laptop(1024px) and up*/
 @media screen and (min-width: 1024px) {
     #book-list1 {
-        margin-left: 210px;
+        margin-left: 220px;
     }
 }
