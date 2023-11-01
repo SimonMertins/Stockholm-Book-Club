@@ -2,11 +2,12 @@
 Stockholm book club is exactly what it sounds like, it is a book club based in Stockholm. Made by and for people who loves to read and wants to make a deep dive in captivating classics, by discussing and debating the books context.
 
 To make the book club accessible to as many people as possible, the meetups are held in central Stockholm at the same café and the same time every week. It is also very easy to join, all you need to do is to sign up using the sign up form and show up at the next meeting.
-
+![Mockup picture](https://github.com/SimonMertins/Stockholm-book-club/blob/main/assets/images/mockup.png)
 ## Features
 
 ### Navigation bar
 * The navigation bar includes a logo that links to the home page, a link to the home page, a link to the book list and a link to the signup page. The navigation bar looks the same on every page to allow for easy navigation and good UX.
+![picture of navigation bar]
 
 * The Navigation bar is responsive, so when the website is used by a phone the navigation will have a dropdown menu with links to all the pages.
 
