@@ -32,3 +32,44 @@ To make the book club accessible to as many people as possible, the meetups are 
 
 ### Features to add
 * One feature that I want to add is a protocol page where the user easily can read what the club where discussing prior meetings or even listen to an audio recording form the prior meetings.
+
+## Testing
+* The website have been tested on multiple browsers and on multiple screen-sizes.
+
+* All the links work and the links that should open in a separate tab does.
+
+### Bugs
+* I had a bug in the deployed version, the background images didn't work but I fixed that by changing the file pathway.
+
+### Validation
+* HTML
+No errors in the W3C validator
+[W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsimonmertins.github.io%2FStockholm-book-club%2Findex.html)
+
+* CSS
+No errors in the jigsaw validator
+[Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsimonmertins.github.io%2FStockholm-book-club%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+## Deployment
+The site is deployed to GitHub Pages.
+* In the GitHub repository I went to settings
+* Then clicked on "Pages" on the left side of the screen and went through the deployment process
+
+## Credits
+### Code
+* In the header I took a lot of inspiration from [Love-Running](https://github.com/SimonMertins/Love-Running)
+
+* I used the footer from [Love-Running](https://github.com/SimonMertins/Love-Running)
+
+### Content
+* The text in the "Join Us Today:" section are written by [ChatGPT](https://chat.openai.com)
+
+* I watched a lot of tutorials/videos from [Code Institute](https://codeinstitute.net/se/)
+
+* The icons in the footer and the menu are from [FontAwseome](https://fontawesome.com)
+
+### Media
+All of the images are from [Pexels](https://www.pexels.com)
+* picture on [index.html](https://www.pexels.com/photo/books-in-black-wooden-book-shelf-159711/)
+* picture on [bookk-list.html](https://www.pexels.com/photo/notebook-with-blank-pages-942872/)
+* picture on [signup.html](https://www.pexels.com/photo/white-printer-paper-on-brown-wooden-table-7041947/)
