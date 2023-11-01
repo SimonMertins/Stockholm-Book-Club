@@ -130,7 +130,7 @@ main a {
 
 /*signup-page-main*/
 #signup {
-    background-image: url("/assets/images/pexels-andrew-neel-7041947.jpg");
+    background-image: url("../images/pexels-andrew-neel-7041947.jpg");
     background-size: cover;
     background-position: 40%;
     flex-grow: 1;
@@ -149,7 +149,7 @@ main a {
 }
 /*Book List Main*/
 #book-list-background {
-    background-image: url("/assets/images/pexels-messala-ciulla-942872.jpg");
+    background-image: url("../images/pexels-messala-ciulla-942872.jpg");
     background-size: cover;
     background-position: 75%;
     flex-grow: 1;
