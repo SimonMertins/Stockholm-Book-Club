@@ -7,18 +7,17 @@ To make the book club accessible to as many people as possible, the meetups are 
 
 ### Navigation bar
 * The navigation bar includes a logo that links to the home page, a link to the home page, a link to the book list and a link to the signup page. The navigation bar looks the same on every page to allow for easy navigation and good UX.
-![picture of navigation bar]
 
 * The Navigation bar is responsive, so when the website is used by a phone the navigation will have a dropdown menu with links to all the pages.
-
+![picture of navigation bar](https://github.com/SimonMertins/Stockholm-book-club/blob/main/assets/images/header.png)
 ### Landing page
 * The landing page includes a image with text overlay that tells the user when and where the meetings are held. The text also contains a link to google maps that opens in a new tab so the user easily can see the location of the café that the meetings are held.
 
 * Under the landing page image will the user see a section containing why they should join this book club, and a link to the sign up page.
-
+[picture of landing page](https://github.com/SimonMertins/Stockholm-book-club/blob/main/assets/images/index.png)
 ### Footer
 * The footer contains links to social media pages that opens in separate tabs for good UX.
-
+[picture of footer](https://github.com/SimonMertins/Stockholm-book-club/blob/main/assets/images/footer.png)
 * The links to social media makes it easy for the user to find the club on every social media.
 
 ### Book list page
@@ -53,8 +52,8 @@ No errors in the jigsaw validator
 
 ## Deployment
 The site is deployed to GitHub Pages.
-* In the GitHub repository I went to settings
-* Then clicked on "Pages" on the left side of the screen and went through the deployment process
+* In the GitHub repository I went to settings.
+* Then clicked on "Pages" on the left side of the screen and went through the deployment process.
 
 ## Credits
 ### Code
