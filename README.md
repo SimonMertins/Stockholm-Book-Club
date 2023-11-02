@@ -4,11 +4,17 @@ Stockholm book club is exactly what it sounds like, it is a book club based in S
 To make the book club accessible to as many people as possible, the meetups are held in central Stockholm at the same café and the same time every week. It is also very easy to join, all you need to do is to sign up using the sign up form and show up at the next meeting.
 ![Mockup picture](https://github.com/SimonMertins/Stockholm-book-club/blob/main/assets/images/mockup.png)
 ## Tabel of Contents
+
 - [Introduction](#stockholm-book-club)
+
 - [Features](#features)
+
 - [Wireframe](#wireframe)
+
 - [Testing](#testing)
+
 - [Deployment](#deployment)
+
 - [Credits](#credits)
 
 ## Features
